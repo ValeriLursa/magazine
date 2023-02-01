@@ -1,0 +1,23 @@
+.daily-prophet{
+    width: 1000px;
+    /* height: 1200px; */
+    background-color: #e7e2da;
+    margin: auto;
+
+    padding: 50px;
+}
+
+.paper-header{
+    background: url(img/paper-head.PNG) center/contain no-repeat;
+    height: 200px;
+}
+
+.paper-sub-header{
+    background: url(img/paper-sub-head.PNG) center/contain no-repeat;
+    height: 120px;
+}
+
+.paper-content{
+    border: 3px solid black;
+    margin-top: 30px;
+}
